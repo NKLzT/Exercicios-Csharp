@@ -1,0 +1,8 @@
+C:\Users\Nikas\Desktop\Projetos\C#\INSS\INSS\obj\Debug\INSS.csproj.AssemblyReference.cache
+C:\Users\Nikas\Desktop\Projetos\C#\INSS\INSS\obj\Debug\INSS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikas\Desktop\Projetos\C#\INSS\INSS\obj\Debug\INSS.csproj.CoreCompileInputs.cache
+C:\Users\Nikas\Desktop\Projetos\C#\INSS\INSS\bin\Debug\INSS.exe.config
+C:\Users\Nikas\Desktop\Projetos\C#\INSS\INSS\bin\Debug\INSS.exe
+C:\Users\Nikas\Desktop\Projetos\C#\INSS\INSS\bin\Debug\INSS.pdb
+C:\Users\Nikas\Desktop\Projetos\C#\INSS\INSS\obj\Debug\INSS.exe
+C:\Users\Nikas\Desktop\Projetos\C#\INSS\INSS\obj\Debug\INSS.pdb

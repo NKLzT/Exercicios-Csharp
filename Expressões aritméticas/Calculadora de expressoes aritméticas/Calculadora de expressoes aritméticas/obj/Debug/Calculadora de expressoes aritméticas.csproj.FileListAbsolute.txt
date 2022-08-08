@@ -1,0 +1,8 @@
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Calculadora de expressoes aritméticas\Calculadora de expressoes aritméticas\bin\Debug\Calculadora de expressoes aritméticas.exe.config
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Calculadora de expressoes aritméticas\Calculadora de expressoes aritméticas\bin\Debug\Calculadora de expressoes aritméticas.exe
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Calculadora de expressoes aritméticas\Calculadora de expressoes aritméticas\bin\Debug\Calculadora de expressoes aritméticas.pdb
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Calculadora de expressoes aritméticas\Calculadora de expressoes aritméticas\obj\Debug\Calculadora de expressoes aritméticas.csproj.AssemblyReference.cache
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Calculadora de expressoes aritméticas\Calculadora de expressoes aritméticas\obj\Debug\Calculadora de expressoes aritméticas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Calculadora de expressoes aritméticas\Calculadora de expressoes aritméticas\obj\Debug\Calculadora de expressoes aritméticas.csproj.CoreCompileInputs.cache
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Calculadora de expressoes aritméticas\Calculadora de expressoes aritméticas\obj\Debug\Calculadora de expressoes aritméticas.exe
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Calculadora de expressoes aritméticas\Calculadora de expressoes aritméticas\obj\Debug\Calculadora de expressoes aritméticas.pdb

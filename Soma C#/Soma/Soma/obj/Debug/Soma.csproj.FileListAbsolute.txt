@@ -1,0 +1,8 @@
+C:\Users\Nikas\Desktop\Projetos\C#\Soma C#\Soma\Soma\bin\Debug\Soma.exe.config
+C:\Users\Nikas\Desktop\Projetos\C#\Soma C#\Soma\Soma\bin\Debug\Soma.exe
+C:\Users\Nikas\Desktop\Projetos\C#\Soma C#\Soma\Soma\bin\Debug\Soma.pdb
+C:\Users\Nikas\Desktop\Projetos\C#\Soma C#\Soma\Soma\obj\Debug\Soma.csproj.AssemblyReference.cache
+C:\Users\Nikas\Desktop\Projetos\C#\Soma C#\Soma\Soma\obj\Debug\Soma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikas\Desktop\Projetos\C#\Soma C#\Soma\Soma\obj\Debug\Soma.csproj.CoreCompileInputs.cache
+C:\Users\Nikas\Desktop\Projetos\C#\Soma C#\Soma\Soma\obj\Debug\Soma.exe
+C:\Users\Nikas\Desktop\Projetos\C#\Soma C#\Soma\Soma\obj\Debug\Soma.pdb

@@ -1,0 +1,8 @@
+C:\Users\Nikas\Desktop\Projetos\C#\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.exe.config
+C:\Users\Nikas\Desktop\Projetos\C#\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.exe
+C:\Users\Nikas\Desktop\Projetos\C#\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.pdb
+C:\Users\Nikas\Desktop\Projetos\C#\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.csproj.AssemblyReference.cache
+C:\Users\Nikas\Desktop\Projetos\C#\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikas\Desktop\Projetos\C#\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.csproj.CoreCompileInputs.cache
+C:\Users\Nikas\Desktop\Projetos\C#\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.exe
+C:\Users\Nikas\Desktop\Projetos\C#\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.pdb

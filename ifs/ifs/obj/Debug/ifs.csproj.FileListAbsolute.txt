@@ -1,0 +1,8 @@
+C:\Users\Nikas\Desktop\Projetos\C#\ifs\ifs\obj\Debug\ifs.csproj.AssemblyReference.cache
+C:\Users\Nikas\Desktop\Projetos\C#\ifs\ifs\obj\Debug\ifs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikas\Desktop\Projetos\C#\ifs\ifs\obj\Debug\ifs.csproj.CoreCompileInputs.cache
+C:\Users\Nikas\Desktop\Projetos\C#\ifs\ifs\bin\Debug\ifs.exe.config
+C:\Users\Nikas\Desktop\Projetos\C#\ifs\ifs\bin\Debug\ifs.exe
+C:\Users\Nikas\Desktop\Projetos\C#\ifs\ifs\bin\Debug\ifs.pdb
+C:\Users\Nikas\Desktop\Projetos\C#\ifs\ifs\obj\Debug\ifs.exe
+C:\Users\Nikas\Desktop\Projetos\C#\ifs\ifs\obj\Debug\ifs.pdb

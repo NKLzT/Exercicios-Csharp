@@ -1,0 +1,8 @@
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Exemplos\Exemplos\obj\Debug\Exemplos.csproj.AssemblyReference.cache
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Exemplos\Exemplos\obj\Debug\Exemplos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Exemplos\Exemplos\obj\Debug\Exemplos.csproj.CoreCompileInputs.cache
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Exemplos\Exemplos\bin\Debug\Exemplos.exe.config
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Exemplos\Exemplos\bin\Debug\Exemplos.exe
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Exemplos\Exemplos\bin\Debug\Exemplos.pdb
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Exemplos\Exemplos\obj\Debug\Exemplos.exe
+C:\Users\Nikas\Desktop\Projetos\C#\Expressões aritméticas\Exemplos\Exemplos\obj\Debug\Exemplos.pdb

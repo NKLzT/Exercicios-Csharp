@@ -1,0 +1,3 @@
+C:\Users\Nikas\Desktop\Projetos\C#\Funções e procedimentos\Funções e procedimentos\obj\Debug\Funções e procedimentos.csproj.AssemblyReference.cache
+C:\Users\Nikas\Desktop\Projetos\C#\Funções e procedimentos\Funções e procedimentos\obj\Debug\Funções e procedimentos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikas\Desktop\Projetos\C#\Funções e procedimentos\Funções e procedimentos\obj\Debug\Funções e procedimentos.csproj.CoreCompileInputs.cache
